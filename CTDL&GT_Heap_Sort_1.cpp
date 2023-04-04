@@ -1,4 +1,4 @@
-//link tham khảo:
+//link tham khảo:https://duongdinh24.com/thuat-toan-heap-sort/
 void heapSort(int arr[], int n){
     
     // vun dong tu duoi len len de thanh heap
