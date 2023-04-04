@@ -1,4 +1,4 @@
-//link tham khảo:
+//link tham khảo:https://freetuts.net/thuat-toan-sap-xep-nhanh-quick-sort-2940.html
 #include<stdio.h>
 #include<iostream>
 using namespace std;
