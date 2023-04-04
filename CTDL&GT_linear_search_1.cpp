@@ -12,5 +12,3 @@ int LinearSearch(int a[], int n, int x)
 		return i;//Tìm thấy x
 	}
 }
-Copy
-Nhận xét:
